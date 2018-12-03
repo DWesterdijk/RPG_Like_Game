@@ -2,9 +2,9 @@
 I wanted to make an RPG game, and every rpg game needs an Inventory, and that is exactly what I did here.
 
 ## Features
-GUI-drawn Inventory
-Drag and Drop
-On-Hover Tooltip
+-GUI-drawn Inventory
+-Drag and Drop
+-On-Hover Tooltip
 
 ## Software Analysis
 I was looking around at all the possible engines/platforms/languages to make this Inventory system on.
