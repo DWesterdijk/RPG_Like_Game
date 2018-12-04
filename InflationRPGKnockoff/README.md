@@ -19,7 +19,7 @@ It is still my favourite free engine to use, it works fine, and has a lot of opt
 - I wanted it to be possible to drag and drop around items.
 
 ## Planning
-|| Monday | Tuesday | Wednesday | Thursday | Friday |
+| | Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- |
 |Week 1 | Setting up the project | Research what was the best to use & Write down what I need to make & Start writing code (if there's time left) | Writing the Code of the inventory system & testing it | Writing the Code of the inventory system & testing it | Writing the Code of the inventory system & testing it |
 |Week 2 | Writing the Code of the inventory system & testing it | Once it works, Polish the code and make it more user friendly | Deliver it | Done | Done |
