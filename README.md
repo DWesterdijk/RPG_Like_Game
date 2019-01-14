@@ -1,5 +1,7 @@
 # Inventory System
 I wanted to make an RPG game, and every rpg game needs an Inventory, and that is exactly what I did here.
+After I had the inventory system I started adding some more code and stuff, this is still a work in progress for a bigger RPG game
+and will be completed one day in the future.
 
 ## Features
 - GUI-drawn Inventory
@@ -19,7 +21,7 @@ It is still my favourite free engine to use, it works fine, and has a lot of opt
 - I wanted it to be possible to drag and drop around items.
 
 ## Planning
-| | Monday | Tuesday | Wednesday | Thursday | Friday |
+|| Monday | Tuesday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- |
 |Week 1 | Setting up the project | Research what was the best to use & Write down what I need to make & Start writing code (if there's time left) | Writing the Code of the inventory system & testing it | Writing the Code of the inventory system & testing it | Writing the Code of the inventory system & testing it |
 |Week 2 | Writing the Code of the inventory system & testing it | Once it works, Polish the code and make it more user friendly | Deliver it | Done | Done |
